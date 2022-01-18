@@ -28,7 +28,7 @@ export default {
   ],
   data() {
     return {
-      activePage: 2
+      activePage: 1
     }
   },
   methods: {
