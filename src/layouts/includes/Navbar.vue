@@ -48,6 +48,13 @@
             changeActive(id) {
                 this.activePage = id;
                 this.$emit('active-page', id);
+
+                var menu = document.getElementById("topnav_responsive_menu");
+                var icon = document.getElementById("topnav_hamburger_icon");
+                if (menu.className === "open") {
+                    menu.className = "";
+                    icon.className = "";
+                }
             }
         },
     }
