@@ -5,7 +5,7 @@
             <div class="right-about">
                 <div class="about-text">
                     <p>
-                        L'acquisition de ces compétences se fait principalement à travers des projets concrets. Le principe étant à chaque fois de réaliser un projet utile sur une technologie que je ne connais pas forcément afin de pouvoir la découvrir et apprendre à l'utiliser. Après avoir découvert une multitude de langages et frameworks, je sais désormais lequelle est le plus adapté à mon besoin.
+                        L'acquisition de ces compétences se fait principalement à travers des projets concrets. Le principe étant à chaque fois de réaliser un projet utile sur une technologie que je ne connais pas forcément afin de pouvoir la découvrir et apprendre à l'utiliser. Après avoir découvert une multitude de langages et frameworks, je sais désormais lequel est le plus adapté à mon besoin.
                     </p>
                 </div>
             </div>
