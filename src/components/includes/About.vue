@@ -8,10 +8,8 @@
             <div class="right-about">
                 <div class="about-text">
                     <p>
-                        Actuellement Etudiant en 3ème année de Développement Web à l'IIM Digital School Paris, je me suis
-                        <i>développé</i> une passion pour la création de sites internet et d'applications. Cette passion se
-                        reflète dans les différents projets sur lesquels j'ai pu travailler jusqu'à présent, qu'ils soient
-                        scolaires, personnels ou professionnels
+                        Actuellement alternant en 3ème année de développement web à l'IIM Digital School Paris à Nanterre, je suis passionné par la création de sites internet et applications. D'abord attiré par le développement back-end, je me suis principalement formé sur des technologies basées sur le langage PHP. Après certaines formations professionnelles, personnelles et scolaires, j'ai également décidé de me spécialiser dans le développement front-end, ce qui fait de moi un développeur full stack.
+                        
                     </p>
                 </div>
             </div>

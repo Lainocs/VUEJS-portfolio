@@ -5,10 +5,7 @@
             <div class="right-about">
                 <div class="about-text">
                     <p>
-                        Actuellement Etudiant en 3ème année de Développement Web à l'IIM Digital School Paris, je me suis
-                        <i>développé</i> une passion pour la création de sites internet et d'applications. Cette passion se
-                        reflète dans les différents projets sur lesquels j'ai pu travailler jusqu'à présent, qu'ils soient
-                        scolaires, personnels ou professionnels
+                        L'acquisition de ces compétences se fait principalement à travers des projets concrets. Le principe étant à chaque fois de réaliser un projet utile sur une technologie que je ne connais pas forcément afin de pouvoir la découvrir et apprendre à l'utiliser. Après avoir découvert une multitude de langages et frameworks, je sais désormais lequelle est le plus adapté à mon besoin.
                     </p>
                 </div>
             </div>
@@ -46,7 +43,6 @@
         width: 80vw;
         border-radius: 10px;
         background-color: rgba(236, 236, 236, 0.9);
-        min-height: 50vh;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -83,7 +79,7 @@
             }
 
             .picture {
-                height: 300px;
+                height: 250px;
                 width: 500px;
                 position: relative;
                 img {

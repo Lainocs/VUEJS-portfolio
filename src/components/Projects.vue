@@ -45,7 +45,6 @@
                         image: require('@/assets/images/projects/api.png'),
                         year: '2021',
                         languages: [
-                            require('@/assets/images/skills/php.png'),
                             require('@/assets/images/skills/php.png')
                         ]
                     }
