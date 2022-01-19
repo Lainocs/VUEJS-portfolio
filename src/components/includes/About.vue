@@ -27,7 +27,7 @@ export default {
 </script>
 
 <style lang="scss">
-    #about, #projects {
+    #about {
         margin: 0 auto;
         width: 80vw;
         border-radius: 10px;
@@ -47,6 +47,7 @@ export default {
         }
 
         .content {
+            text-align: right;
             width: 100%;
             color: black;
             display: flex;
@@ -56,7 +57,6 @@ export default {
             padding-bottom: 80px;
 
             .about-text {
-                padding: 20px;
                 display: flex;
                 flex-wrap: wrap;
                 justify-content: center;
@@ -69,53 +69,16 @@ export default {
         }
     }
 
-    #skills {
-        margin: 100px auto;
-        width: 80vw;
-        border-radius: 10px;
-        background-color: rgba(22, 22, 22, 0.9);
-        min-height: 50vh;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: space-around;
-        align-items: center;
-    }
-
-    #contact {
-        width: 80vw;
-        margin: 100px auto;
-    }
-
-    @media screen and (max-width: 1200px) {
+    @media screen and (max-width: 1300px) {
         #about {
             .content {
                 .about-text {
-                    padding: 5px;
+                    padding: 50px 5px 5px 5px;
                     width: 70vw;
                     text-align: center;
                 }
             }
             
-        }
-
-        #projects {
-            .content {
-                display: flex;
-                justify-content: center;
-                flex-direction: column;
-                flex-wrap: wrap;
-                align-items: center;
-
-                .picture {
-                    display: none;
-                }
-                .about-text {
-                    padding: 5px;
-                    width: 70vw;
-                    text-align: center;
-                }
-            }
         }
     }
 </style>

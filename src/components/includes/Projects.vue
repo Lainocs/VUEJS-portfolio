@@ -127,17 +127,24 @@
 
         }
     }
-    @media screen and (max-width: 1200px) {  
+    @media screen and (max-width: 1300px) {  
         #projects {
             .content {
-                display: flex;
-                justify-content: center;
-                flex-direction: column;
-                flex-wrap: wrap;
-                align-items: center;
-
+                padding-bottom: 0;
                 .picture {
-                    display: none;
+                    padding-bottom: 50px;
+                    order: -1;
+                    height: auto;
+                    width: 100%;
+                    position: initial;
+                    img {
+                        display: none;
+                    }
+                    img:nth-child(3) {
+                        display: block;
+                        position: initial;
+                        margin: 0 auto;
+                    }
                 }
                 .about-text {
                     padding: 5px;
