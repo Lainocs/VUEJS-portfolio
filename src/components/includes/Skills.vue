@@ -64,7 +64,7 @@ import { Splide, SplideSlide } from '@splidejs/vue-splide';
                 {
                     skillName: 'VueJS',
                     skillPicture: require('@/assets/images/skills/vue-js.png'),
-                    skillCode: "{{ data() { return { skillCode: this.skills.code }} }}",
+                    skillCode: "{{ data() { return { skillCode: skills.code }} }}",
                 },
                 {
                     skillName: 'Wordpress',
